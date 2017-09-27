@@ -11,6 +11,7 @@ namespace GitHub
         static void Main(string[] args)
         {
             Console.WriteLine("第一次提交");
+            Console.WriteLine("第二次提交");
         }
     }
 }
