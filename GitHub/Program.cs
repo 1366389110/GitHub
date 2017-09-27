@@ -10,6 +10,7 @@ namespace GitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("第一次提交");
         }
     }
 }
